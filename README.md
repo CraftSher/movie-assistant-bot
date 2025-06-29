@@ -1,4 +1,4 @@
-![Project Banner](data/banner.png)
+![Project Banner](data/banner.jpg)
 
 ![demo gif](data/MovieAssistantBot.gif)
 
